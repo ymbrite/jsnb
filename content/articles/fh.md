@@ -1,4 +1,5 @@
 ---
+title: 战马
 cover: /articles/get-started.webp
 author:
   name: ym
